@@ -1,0 +1,4 @@
+*.txt
+!req.txt
+/venv
+/.vscode
