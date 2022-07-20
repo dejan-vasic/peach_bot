@@ -2,3 +2,4 @@
 !req.txt
 /venv
 /.vscode
+.env
